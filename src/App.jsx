@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar";
 // import ParticlesBackground from "./components/ParticlesBackground";
 import About from "./sections/About";
 import Awards from "./sections/Awards";
-import Contact from "./sections/contact";
+import Contact from "./sections/Contact";
 import Experience from "./sections/Experience";
 import Footer from "./sections/Footer";
 import Home from "./sections/Home";
