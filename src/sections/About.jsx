@@ -4,7 +4,7 @@ import profile from "../assets/profile.jpg"; // <-- change if different image
 
 export default function About() {
   const stats = [
-    { label: "Experience", value: "1+ years" },
+    { label: "Experience", value: "3+ years" },
     { label: "Specialty", value: "Full Stack" },
     { label: "Focus", value: "Performance & UX" },
   ];
@@ -67,11 +67,7 @@ export default function About() {
             </p>
 
             <p className="mt-4 text-gray-300 leading-relaxed text-base sm:text-lg max-w-2xl md-max-w-3xl">
-              I build scalable, modern applications with a strong focus on clean
-              architecture, delightful UX, and performance. My toolkit spans
-              Java, React, Next.js, TypeScript, Tailwind CSS, and RESTful APIs —
-              bringing ideas to life from concept to production with robust
-              backends and smooth interfaces.
+             
             </p>
             <div className="mt-6 grid grid-cols-2 sm:grid-cols-3 gap-3 sm:gap-4 max-w-xl">
               {stats.map((item, i) => (
@@ -91,13 +87,13 @@ export default function About() {
 
             <div className="mt-6 flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center md:justify-start">
               <a
-                href="#Projects"
+                href="#projects"
                 className="inline-flex items-center justify-center rounded-lg bg-white text-black font-semibold px-5 py-3 hover:bg-gray-200 transition"
               >
                 View Projects
               </a>
               <a
-                href="#Contact"
+                href="#contact"
                 className="inline-flex items-center justify-center rounded-lg border border-white/20 bg-white/10 text-white px-5 py-3 hover:bg-white/20 transition"
               >
                 Get in touch
@@ -117,9 +113,16 @@ export default function About() {
           </h3>
 
           <p className="text-gray-300 leading-relaxed text-base sm:text-lg">
-            I’m a Software Developer, Content Creator, and Web Developer —
-            passionate about building fast, resilient applications and sharing
-            coding insights on Instagram and YouTube.
+            I am a motivated and detail-oriented Frontend Developer with over
+              3 years of experience in designing and developing responsive web
+              applications. I have worked with multiple companies where I built
+              dynamic user interfaces, optimized website performance, and
+              ensured cross-browser compatibility. My expertise lies in
+              converting client requirements into visually appealing and
+              functional designs. I am passionate about learning new
+              technologies and continuously improving my skills. I enjoy working
+              in collaborative environments and solving real-world problems
+              through clean and efficient code.
           </p>
 
           <p className="mt-4 text-gray-400">

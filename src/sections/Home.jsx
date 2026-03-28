@@ -105,8 +105,10 @@ export default function Home() {
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
             >
-              I build clean, modern and responsive web applications with a focus
-              on performance and user experience.
+              Frontend Developer with 3+ years of experience in building
+              responsive and user-friendly web applications. I specialize in
+              HTML, CSS, JavaScript, and React, creating modern,
+              high-performance websites that deliver seamless user experiences.
             </motion.p>
 
             {/* BUTTONS */}

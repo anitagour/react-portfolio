@@ -3,24 +3,24 @@ import { useRef, useState, useEffect, useMemo } from "react";
 
 const experiences = [
   {
-    role: "Web Developer",
-    company: "Brain Mentors",
+    role: "Web Developer Intern",
+    company: "Bhartiya Tech IT Solutions Pvt. Ltd.",
     duration: "2022",
     description:
-      "Built high-performance apps, integrated AI features, improved engagement by 10%.",
+      " Assisted in building responsive, cross-browser web pages while gaining hands-on experience in modern frontend technologies and supporting UI development.",
   },
   {
-    role: "Web Developer Intern",
-    company: "Mobisoft Technologies",
-    duration: "2022 - 2023",
-    description: "Gained hands-on web development experience.",
+    role: "Frontend Developer",
+    company: "Trade 4 Asia Pvt. Ltd.",
+    duration: "(Dec 2022 – Jun 2023)",
+    description: "Developed dynamic, responsive websites aligned with client requirements while ensuring optimal performance and user experience.",
   },
   {
-    role: "Graduate Engineer",
-    company: "HCL Technologies",
-    duration: "2024 - 2025",
+    role: "Frontend Developer",
+    company: "Brandology Market Pvt. Ltd. ",
+    duration: "((Jun 2023 – Mar 2025))",
     description:
-      "Built frontend of GenAI-powered PV Intake App with Next.js & TS for US client.",
+      "Developed responsive web interfaces using modern technologies, ensured cross-browser compatibility, and improved UI/UX while delivering projects on time.",
   },
 ];
 
